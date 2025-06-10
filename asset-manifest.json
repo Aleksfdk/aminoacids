@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aminoacids/static/css/main.198891c8.css",
+    "main.js": "/aminoacids/static/js/main.2c38264d.js",
+    "static/js/453.2adc70c5.chunk.js": "/aminoacids/static/js/453.2adc70c5.chunk.js",
+    "index.html": "/aminoacids/index.html",
+    "main.198891c8.css.map": "/aminoacids/static/css/main.198891c8.css.map",
+    "main.2c38264d.js.map": "/aminoacids/static/js/main.2c38264d.js.map",
+    "453.2adc70c5.chunk.js.map": "/aminoacids/static/js/453.2adc70c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198891c8.css",
+    "static/js/main.2c38264d.js"
+  ]
+}
